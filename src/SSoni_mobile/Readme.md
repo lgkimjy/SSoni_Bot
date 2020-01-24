@@ -1,5 +1,11 @@
 # SSoni_Bot
 
+1.21
+- xavier와 통신시 모터의 foward와 backward 시작 시 모터의 가감속이 이상한게 확인 됨
+
+1.20
+- Ssoni_Bot과 연결하여 모터 구동 완료, 방향제어 및 xavier와 통신하여 확인완료
+
 1.15
 - ROS 와 PIGPIO를 이용한 DC모터 제어 (mobile_manager.cpp, motor_node.cpp)
 
